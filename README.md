@@ -1,6 +1,6 @@
-# Hi, my name is Ho Yin, software engineer from Hong Kong.
+## Hi 👋 I'm Ho Yin — a professional software engineer and IT educator.
 
-## For more info, visit my website 👉 [leunghoyin.com](https://www.leunghoyin.com/?utm_source=github&utm_medium=profile&utm_campaign=homepage_link)
+### Feel free to visit my website for more about me 👉 [leunghoyin.com](https://www.leunghoyin.com/?utm_source=github&utm_medium=profile&utm_campaign=homepage_link)
 
 <!--
 **hoyinleung/hoyinleung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
