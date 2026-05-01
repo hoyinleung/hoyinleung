@@ -1,4 +1,4 @@
-## Hi~👋 This is Ho Yin — a seasoned professional software engineer and IT educator.
+## Hi~👋 This is Ho Yin — a seasoned professional software engineer.
 
 ### Feel free to visit my website for more about me 👉 [leunghoyin.com](https://www.leunghoyin.com/?utm_source=github&utm_medium=profile&utm_campaign=homepage_link)
 
